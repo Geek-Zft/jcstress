@@ -1,5 +1,15 @@
 # jcstress的使用
 
+## 如何使用本仓库
+
+必要的准备：
+
+- jdk1.8
+- maven
+- git
+
+将项目clone到本地后，按照下面的说明编写测试类，打包，然后运行即可
+
 ## 项目构建遇到的问题
 https://wiki.openjdk.java.net/display/CodeTools/jcstress
 
